@@ -38,15 +38,15 @@ This website is a dedicated platform to showcase my video creations, tutorials, 
 * **Vercel** — Tezkor hosting va deployment.
 
 ---
-
 ## 📂 Loyiha tuzilishi | Structure
-```text
 video-portfolio/
 ├── index.html        # Asosiy galereya sahifasi
 ├── css/              # Video kartalari va sahifa dizayni
 ├── assets/           # Video muqovalari (thumbnails) va ikonkalar
 └── README.md         # Loyiha haqida ma'lumot
 
-👨‍💻 Muallif / Author
+--
+
+## 👨‍💻 Muallif / Author
 Azizbek Abdullayev(Aspiring Full-Stack developer!)
 Creative Developer & Content Creator
