@@ -2,7 +2,7 @@
 
 Ushbu loyiha mening ijodiy ishlarim — men yaratgan videolar, darsliklar va vizual kontentlarni bir joyga jamlagan interaktiv platformadir. Sayt foydalanuvchilarga men tomonidan tayyorlangan media mahsulotlarni qulay tartibda ko'rish imkonini beradi.
 
-
+---
 
 ## 🚀 Jonli demo (Live Demo)
 Videolarni ko'rish uchun: [about-my-created-videos-website.vercel.app](https://about-my-created-videos-website.vercel.app/)
@@ -34,21 +34,10 @@ This website is a dedicated platform to showcase my video creations, tutorials, 
 ## 🛠 Texnologiyalar | Technologies
 * **HTML5** — Video teglari va semantik struktura uchun.
 * **CSS3** — Galereya dizayni, hover effektlari va moslashuvchanlik uchun.
-* **JavaScript** — Videolarni saralash yoki interaktiv pleyer funksiyalari uchun (agar qo'shilgan bo'lsa).
+* **JavaScript** — Videolarni saralash yoki interaktiv pleyer funksiyalari uchun.
 * **Vercel** — Tezkor hosting va deployment.
 
 ---
-## 📂 Loyiha tuzilishi | Structure
-
-video-portfolio/
-├── index.html        # Asosiy galereya sahifasi
-├── css/              # Video kartalari va sahifa dizayni
-├── assets/           # Video muqovalari (thumbnails) va ikonkalar
-└── README.md         # Loyiha haqida ma'lumot
-
---
 
 ## 👨‍💻 Muallif / Author
-
-Azizbek Abdullayev(Aspiring Full-Stack developer!)
-Creative Developer & Content Creator
+Azizbek Abdullayev (Aspiring Full-Stack Developer!) Creative Developer & Content Creator
