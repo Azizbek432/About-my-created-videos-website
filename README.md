@@ -39,6 +39,7 @@ This website is a dedicated platform to showcase my video creations, tutorials, 
 
 ---
 ## 📂 Loyiha tuzilishi | Structure
+```text
 video-portfolio/
 ├── index.html        # Asosiy galereya sahifasi
 ├── css/              # Video kartalari va sahifa dizayni
