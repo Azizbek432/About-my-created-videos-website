@@ -45,7 +45,7 @@ video-portfolio/
 ├── css/              # Video kartalari va sahifa dizayni
 ├── assets/           # Video muqovalari (thumbnails) va ikonkalar
 └── README.md         # Loyiha haqida ma'lumot
-
+```text
 --
 
 ## 👨‍💻 Muallif / Author
