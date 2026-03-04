@@ -39,15 +39,16 @@ This website is a dedicated platform to showcase my video creations, tutorials, 
 
 ---
 ## 📂 Loyiha tuzilishi | Structure
-```text
+
 video-portfolio/
 ├── index.html        # Asosiy galereya sahifasi
 ├── css/              # Video kartalari va sahifa dizayni
 ├── assets/           # Video muqovalari (thumbnails) va ikonkalar
 └── README.md         # Loyiha haqida ma'lumot
-```text
+
 --
 
 ## 👨‍💻 Muallif / Author
+
 Azizbek Abdullayev(Aspiring Full-Stack developer!)
 Creative Developer & Content Creator
